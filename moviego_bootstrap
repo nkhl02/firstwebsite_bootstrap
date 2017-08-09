@@ -1,0 +1,54 @@
+<html>
+<head>
+
+<title>moviego</title>
+
+<link rel="stylesheet" href="./bootstrap-3.3.7/dist/css/bootstrap.min.css">
+<link rel="stylesheet" href="./css/moviegoboot.css">
+<script src="bootstrap-3.3.7/js/tests/vendor/jquery.min.js"></script>
+<script src="./bootstrap-3.3.7/dist/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+
+
+<section id="hero" class="img-responsive">
+<div class="hero-container">
+<div class="hero-logo">
+<img src="./img/logo2.png"
+</div>
+<div class="hero-content">
+WELCOME TO ONE STOP MOVIE DESTINATION
+</div>
+<div class="wow fadeIn" style="visibility: visible; animation-name: fadeIn;">
+</div>
+</div>
+</section>
+
+<div id="header">
+<nav class="navbar navbar-inverse" data-spy="affix" data-offset-top="680">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> 
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</button>
+
+<div class="navbar-collapse collapse" >
+<ul class="nav navbar-nav">
+<li><a href="#">Home</a></li>
+<li><a href="#">Movies</a></li>
+<li><a href="#">Genres</a></li>
+<li><a href="#">Reviews</a></li>
+</ul>
+</div>
+</nav>
+
+</div>
+
+<div id="abc">
+
+</div>
+
+</body>
+</html>
